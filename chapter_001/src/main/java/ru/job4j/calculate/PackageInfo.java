@@ -1,13 +1,14 @@
-package ru.job4j.calculate;
+package ru.job4j.calcuiate;
+
 
 /**
- * Calculate.
+ * PackageInfo.
  *
  * @author SamorodovMA
  * @version $Id$
  * @since 0.1
  */
-public class Calculate {
+public class PackageInfo {
     /**
      * Main.
      * @param args - args.
