@@ -7,7 +7,7 @@ import static org.junit.Assert.assertThat;
 /**
 * Test.
 *
-* @author SamorodovMA
+* @author Samorodov MA
 * @version $Id$
 * @since 0.1
 */

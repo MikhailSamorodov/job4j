@@ -3,7 +3,7 @@ package ru.job4j.calculate;
 /**
  * Calculate.
  *
- * @author SamorodovMA
+ * @author Samorodov MA
  * @version $Id$
  * @since 0.1
  */
