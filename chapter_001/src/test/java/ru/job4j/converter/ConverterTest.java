@@ -1,8 +1,22 @@
 package ru.job4j.converter;
 
+/**
+ * Test.
+ *
+ * @author Samorodov MA
+ * @version $Id$
+ * @since 0.1
+ */
+
+
+
 import org.junit.Test;
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertThat;
+
+/**
+ * Test Converter.
+ */
 
 public class ConverterTest {
     @Test
