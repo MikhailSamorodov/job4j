@@ -1,6 +1,15 @@
 package ru.job4j.calculator;
-
+/**
+ * Test.
+ *
+ * @author Samorodov MA
+ * @version $Id$
+ * @since 0.1
+ */
 import org.junit.Test;
+/**
+ * Test Calculator.
+ */
 
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertThat;
