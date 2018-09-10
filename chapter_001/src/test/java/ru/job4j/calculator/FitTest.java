@@ -6,7 +6,7 @@ import static org.hamcrest.number.IsCloseTo.closeTo;
 import static org.junit.Assert.assertThat;
 /**
  * Test.
- * @author Samorodov
+ * @author SamorodovMA
  * @version $id$
  * @since 01
  */

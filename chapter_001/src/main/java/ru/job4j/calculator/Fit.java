@@ -2,7 +2,7 @@ package ru.job4j.calculator;
 /**
  * Calculator.
  *
- * @author Samorodov MA
+ * @author SamorodovMA
  * @version $Id$
  * @since 0.1
  */
