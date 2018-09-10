@@ -4,7 +4,12 @@ import org.junit.Test;
 
 import static org.hamcrest.number.IsCloseTo.closeTo;
 import static org.junit.Assert.assertThat;
-
+/**
+ * Test.
+ * @author Samorodov
+ * @version $id$
+ * @since 01
+ */
 public class FitTest {
 
     @Test

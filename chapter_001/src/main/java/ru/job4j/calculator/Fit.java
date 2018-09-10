@@ -1,5 +1,11 @@
 package ru.job4j.calculator;
-
+/**
+ * Calculator.
+ *
+ * @author Samorodov MA
+ * @version $Id$
+ * @since 0.1
+ */
 public class Fit {
     /**
      * Идеальный вес для мужщины.
